@@ -586,7 +586,7 @@ You should be able to see both of your nodes connected through the topic.
 
 * I think the bootcamp was great, it let us undersatnd basic ROS concepts such as nodes, topics, and services and also understand how to use ROS command-line tools and create simple ROS nodes and packages.
 
-  Difficult:
+Difficult:
 
 * I think their were not enough time for me to finish the bootcamp at class, and there are some challenging topics in ROS such as real-time control, multi-robot systems, and system integration.
 
