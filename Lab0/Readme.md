@@ -573,4 +573,20 @@ You should be able to see both of your nodes connected through the topic.
 
 1. Link to the folder of a ROS package that contains a publisher and a subscriber 
 2. List 5 questions you have about ROS following the tutorial, answers you have found and things you still don't get
+* How does ROS handle communication and coordination between different nodes in a system?
+* What are some common use cases and applications of ROS in industry and research?
+* How does ROS handle multi-robot systems and network communication?
+* What are some of the current challenges and limitations in using ROS for robotics applications?
+* How can I create custom ROS nodes and packages for specific tasks?
+
+
 3. Feedback on the bootcamp: What was easy and what was difficult to understand?
+Easy:
+
+* I think the bootcamp was great, it let us undersatnd basic ROS concepts such as nodes, topics, and services and also understand how to use ROS command-line tools and create simple ROS nodes and packages.
+
+Difficult:
+
+* I think their were not enough time for me to finish the bootcamp at class, and there are some challenging topics in ROS such as real-time control, multi-robot systems, and system integration.
+
+
