@@ -81,6 +81,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/p1.jpg)
 
 <img width="630" alt="Screen Shot 2023-02-07 at 10 28 54 AM" src="https://user-images.githubusercontent.com/6706384/217288636-f0b61de9-16e2-41b1-99b3-fe64f73de78a.png">
 
