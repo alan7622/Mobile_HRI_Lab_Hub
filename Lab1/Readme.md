@@ -84,7 +84,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/p1.jpg)
 
 
-In this setting, the robot is able to do anythng for his master. The robot is able to buy meals and clean the house.
+In this setting, we design a household chores robot, the robot is able to do anythng for his master. The robot is able to buy meals and clean the house.
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p2.jpg)
 
@@ -117,15 +117,12 @@ https://youtu.be/1LAvtb89zIs
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
 
-Some things that seemed better on paper include the home "item fetching" robot.  In order to compensate for delivering large burdensome items like blankets, the methods of the robot must be diverse.
-
-
-Also, the charging robot in terms of the cellphone may need other mechanisms to adjust the charging device in the right orientation for the charger to plug in.
+Some things that seemed better on paper include the household chores robot. Since we thought it would be hard for a robot to clean the house when acting out than  we draw on paper
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
 
-Absolutely, in the case of the charging robot, perhaps inspiration can come from the movement of a snake, allowing the cable to have more degrees of freedom and become less clunky.
+In the case of a grocery shopping robot, we buy things in our normal days, so we came up with an idea to act like a robot to buy things, just like how normal people buy things.
 
 ## Your Weekly Dose of ROS
 
