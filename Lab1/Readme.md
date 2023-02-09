@@ -86,13 +86,12 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 In this setting, divers, or remote ocean explorers are able to navigate the ocean using a motorized propeller in the back.  The extra servo allows for the fins to adjust the undersea drone so that the robot can bank and strafe in various directions.  The goals of the player are to film and photograph the ocean without disturbing native wildlife.
 
-
-<img width="599" alt="Screen Shot 2023-02-07 at 10 28 48 AM" src="https://user-images.githubusercontent.com/6706384/217288641-47be2bf5-79aa-44e6-a0f0-572b0cd61c04.png">
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p2.jpg)
 
 In this setting, home owners and aparment dwellers can bring agricultural technology to water their indoor plants.  A roomba-like robot can navigate their home carrying a tank of water and using precisely arc water into various houseplants detected using CV.  The extra servo motor can serve as a mechanism to direct and disperse the jet of water as in industrial agriculture.
 
 
-<img width="619" alt="Screen Shot 2023-02-07 at 10 28 41 AM" src="https://user-images.githubusercontent.com/6706384/217288642-91fc3aca-da63-419e-8893-419dd5a38af0.png">
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p3.jpg)
 
 In this setting visitors and tourists request navigation and information from a robot in order to enjoy their trip.  A robot is able to travel and escort their clients in order to physically lead them through their trip.
 
