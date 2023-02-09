@@ -1,6 +1,10 @@
 # Interaction First
 \*\***List the names and NetID for your partners here.**\*\*
 
+Alan Hsieh - amh425@cornell.edu
+
+Jonathan Tan - yp332@cornell.edu
+
 In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
 
 Today, you will work with a close relative of ConeBot, CloneBot. Though closely related, CloneBot's personality (robotality?) is quite the opposite of ConeBot. It is outgoing and loves to hangout with people. You will work with CloneBot and design its legendary adventure. 
@@ -78,14 +82,60 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 \*\***Include pictures of your storyboards here**\*\*
 
 
+<img width="630" alt="Screen Shot 2023-02-07 at 10 28 54 AM" src="https://user-images.githubusercontent.com/6706384/217288636-f0b61de9-16e2-41b1-99b3-fe64f73de78a.png">
+
+In this setting, divers, or remote ocean explorers are able to navigate the ocean using a motorized propeller in the back.  The extra servo allows for the fins to adjust the undersea drone so that the robot can bank and strafe in various directions.  The goals of the player are to film and photograph the ocean without disturbing native wildlife.
+
+
+<img width="599" alt="Screen Shot 2023-02-07 at 10 28 48 AM" src="https://user-images.githubusercontent.com/6706384/217288641-47be2bf5-79aa-44e6-a0f0-572b0cd61c04.png">
+
+In this setting, home owners and aparment dwellers can bring agricultural technology to water their indoor plants.  A roomba-like robot can navigate their home carrying a tank of water and using precisely arc water into various houseplants detected using CV.  The extra servo motor can serve as a mechanism to direct and disperse the jet of water as in industrial agriculture.
+
+
+<img width="619" alt="Screen Shot 2023-02-07 at 10 28 41 AM" src="https://user-images.githubusercontent.com/6706384/217288642-91fc3aca-da63-419e-8893-419dd5a38af0.png">
+
+In this setting visitors and tourists request navigation and information from a robot in order to enjoy their trip.  A robot is able to travel and escort their clients in order to physically lead them through their trip.
+
+
+<img width="556" alt="Screen Shot 2023-02-07 at 10 28 35 AM" src="https://user-images.githubusercontent.com/6706384/217288643-92032397-a419-43c8-841b-140db2383e4e.png">
+
+In this setting, the robot acts as a fetching assistant for people who request the robot to fetch them certain items.  For example, a screwdriver when fixing furniture, toilet paper from the bathroom, or a blanket for a comfortable nap.
+
+
+<img width="632" alt="Screen Shot 2023-02-07 at 10 28 29 AM" src="https://user-images.githubusercontent.com/6706384/217288645-f527c21e-eb75-44a6-98ed-8f8bf5bf50a3.png">
+
+In this setting, robot assistants bring the charging apparatus to electric devices in a similar fashion to motorsports technicians.  A phone may be placed on the table and the robot assistant will bring the charger to the phone and automatically begin charging.  This results in a worry free charging experience that could be brought to other electronic devices such as electronic cars and bikes.
+
 ## Part C. Act out the Interaction
 
 Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine).
 
+
+
+https://user-images.githubusercontent.com/6706384/217287864-57128ae9-b222-4cd0-9b43-d649f5ef617b.MOV
+
+
+
+https://user-images.githubusercontent.com/6706384/217287900-c3413bf9-a63d-44da-b918-7e251167faa1.MOV
+
+
+
+https://user-images.githubusercontent.com/6706384/217287921-b4b3c96c-13dd-4b8e-8598-0ac823b10171.MOV
+
+
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
+
+Some things that seemed better on paper include the home "item fetching" robot.  In order to compensate for delivering large burdensome items like blankets, the methods of the robot must be diverse.
+
+
+Also, the charging robot in terms of the cellphone may need other mechanisms to adjust the charging device in the right orientation for the charger to plug in.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+
+Absolutely, in the case of the charging robot, perhaps inspiration can come from the movement of a snake, allowing the cable to have more degrees of freedom and become less clunky.
 
 ## Your Weekly Dose of ROS
 
