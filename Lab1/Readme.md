@@ -84,17 +84,16 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/p1.jpg)
 
 
-In this setting, divers, or remote ocean explorers are able to navigate the ocean using a motorized propeller in the back.  The extra servo allows for the fins to adjust the undersea drone so that the robot can bank and strafe in various directions.  The goals of the player are to film and photograph the ocean without disturbing native wildlife.
+In this setting, the robot is able to do anythng for his master. The robot is able to buy meals and clean the house.
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p2.jpg)
 
-In this setting, home owners and aparment dwellers can bring agricultural technology to water their indoor plants.  A roomba-like robot can navigate their home carrying a tank of water and using precisely arc water into various houseplants detected using CV.  The extra servo motor can serve as a mechanism to direct and disperse the jet of water as in industrial agriculture.
+In this setting, we design a grocery shopping robot, it is design to buy food for the owner. And able to buy things that the owner wants.
 
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/25287db45c28d55e7f5f68d84584a259a4b4e97b/Lab1/p3.jpg)
 
-In this setting visitors and tourists request navigation and information from a robot in order to enjoy their trip.  A robot is able to travel and escort their clients in order to physically lead them through their trip.
-
+In this setting, we design a dog walking robot, the robot is able to walk the dog during leisure time. It is important, which will help the
 
 
 
