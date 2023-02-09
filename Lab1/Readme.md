@@ -83,7 +83,6 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/p1.jpg)
 
-<img width="630" alt="Screen Shot 2023-02-07 at 10 28 54 AM" src="https://user-images.githubusercontent.com/6706384/217288636-f0b61de9-16e2-41b1-99b3-fe64f73de78a.png">
 
 In this setting, divers, or remote ocean explorers are able to navigate the ocean using a motorized propeller in the back.  The extra servo allows for the fins to adjust the undersea drone so that the robot can bank and strafe in various directions.  The goals of the player are to film and photograph the ocean without disturbing native wildlife.
 
