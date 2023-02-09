@@ -46,6 +46,13 @@ You and your teammates will be assigned lab 1 submissions from one other group. 
 
 **Summarize feedback your feedback here.**
 
+Tsung-Yin Hsieh - th542@cornell.edu
+
+Jonathan Tan - jmt362@cornell.edu
+
+We really enjoyed how you utilized the robots to address our daily troubles. I thought it was funny and creative to get robots to fulfill our daily chores. One thing about the interactions I am worried about is the complexity of movements for your robot. Cooking, and grabbing various items seems to be a mechanically difficult task and I am excited to see how you will implement various mechanisms to achieve this!
+
+
 ## Part B. Site the interaction
 
 Think about where the interaction you are prototyping is going to occur-- on a desk? on a floor? indoors? outdoors?
@@ -74,6 +81,7 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
 
+We take into account the practicality and stability of the tool, and we hope that the robot can deliver the food steadily so that it does not fall out.
 
 ## Part D. Wizard the Robot
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the robot while someone interacts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
