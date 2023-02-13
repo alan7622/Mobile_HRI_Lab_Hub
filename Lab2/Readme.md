@@ -69,9 +69,14 @@ What activities are going on in that space? What activity is the robot going to 
 
 \*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
 
+We design a robot cleaning machine to clean the floor and put the garbage in the garbage bag. The interaction will happen indoors on the floor to help people clean their houses. THe robot is going to clean trash in the trash can to prevent garbage.
+
 \*\***Document the activities being considered.**\*\*
 
+
 \*\***What issues or opportunties arise from the site and activities?**\*\*
+
+
 
 ## Part C. Costume the robot
 
@@ -82,12 +87,15 @@ Think about the setting of the device: is the environment a place where the devi
 Pick one of the custumes and make it with paper or cardboard or any other material!
 
 \*\***Include sketches of what your robot might look like here.**\*\*
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/car.jpg)
 
 \*\***Include photos of your custumed robot here.**\*\*
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/car1.jpg)
+
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
 
-We take into account the practicality and stability of the tool, and we hope that the robot can deliver the food steadily so that it does not fall out.
+We take into account the practicality and stability of the tool. We are worried that sweeping robots may not effectively clean all areas of a floor, especially in corners or under furniture, so we designed the broom to be very long to prevent these kinds of situation. Also sweeping robots may struggle to navigate around obstacles or may get stuck in tight spaces, so we make the design not too big for the robot.
 
 ## Part D. Wizard the Robot
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the robot while someone interacts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
