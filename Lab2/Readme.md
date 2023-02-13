@@ -87,11 +87,11 @@ Think about the setting of the device: is the environment a place where the devi
 Pick one of the custumes and make it with paper or cardboard or any other material!
 
 \*\***Include sketches of what your robot might look like here.**\*\*
-![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/car.jpg)
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/ac7c2274ae614496ec41ff520f4297b5728d085d/Lab2/car.jpg)
 
 \*\***Include photos of your custumed robot here.**\*\*
 
-![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5ae61204adbebe031c4980d248d3098d214494c1/Lab1/car1.jpg)
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/ac7c2274ae614496ec41ff520f4297b5728d085d/Lab2/car1.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
 
