@@ -73,6 +73,7 @@ We design a robot cleaning machine to clean the floor in the kitchen and put the
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/c0a870854dab96e03043c34f0d10c0d546961e5a/Lab2/clone-storyboard.jpg)
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/f254ee39c9d2f20812b153d3a53c2755e31d02f1/Lab2/clone-storyboard1.jpg)
 
 \*\***Document the activities being considered.**\*\*
 
