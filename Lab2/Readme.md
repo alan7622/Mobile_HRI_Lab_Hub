@@ -69,7 +69,7 @@ What activities are going on in that space? What activity is the robot going to 
 
 \*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
 
-We design a robot cleaning machine to clean the floor and put the garbage in the garbage bag. The interaction will happen indoors on the floor to help people clean their houses. THe robot is going to clean trash in the trash can to prevent garbage.
+We design a robot cleaning machine to clean the floor in the kitchen and put the garbage in the garbage bag. The interaction will happen indoors on the floor to help people clean their houses. THe robot is going to clean trash in the trash can to prevent garbage.
 
 ![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/c0a870854dab96e03043c34f0d10c0d546961e5a/Lab2/clone-storyboard.jpg)
 
