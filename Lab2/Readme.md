@@ -86,8 +86,13 @@ We design a robot cleaning machine in two situations:
 
 
 \*\***What issues or opportunties arise from the site and activities?**\*\*
+In situation 1:
 
+The use of sweeping robots in the kitchen presents both challenges and opportunities. We need to deal with spills and messes: Kitchen floors often get messy with spills and crumbs, which can clog the brushes of a sweeping robot or cause it to get stuck. Furthermore, kitchens often have a lot of furniture and appliances, making it difficult for sweeping robots to navigate and clean effectively.
 
+In situation 2:
+
+The use of sweeping robots in outdoor environments presents both challenges and opportunities. First of all you need to deal with rough terrain: Outdoor environments can be challenging for sweeping robots, with rough terrain, uneven surfaces, and obstacles like rocks and twigs. Furthermore Sweeping robots need to be weather-resistant to function effectively in outdoor environments, where they may be exposed to rain, snow, and other weather conditions.
 
 ## Part C. Costume the robot
 
