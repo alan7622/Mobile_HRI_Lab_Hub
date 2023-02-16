@@ -120,15 +120,24 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
+https://youtube.com/shorts/SxOTmKxYYYs?feature=share
+
 \*\***Show the follow-up work here.**\*\*
 
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
 
+https://youtu.be/xJSLBVWf9E8
+
+https://youtube.com/shorts/L0kf7nOGYL4?feature=share
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
