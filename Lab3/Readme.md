@@ -303,3 +303,6 @@ https://youtube.com/shorts/Z_zPZGDrdCo
 
 
 
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5df72a2ff6b3dbda149a506453473562e70b8b44/Lab3/image1.jpg)
+
+![This is an image](https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/5df72a2ff6b3dbda149a506453473562e70b8b44/Lab3/image2.jpg)
