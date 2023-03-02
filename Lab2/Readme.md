@@ -15,9 +15,7 @@ This week's lab is a continuation of the previous week. We explore the role of b
 2. Markers/ Pens
 3. Scissors/Utility Knifes
 4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. **Found objects and materials** -- You will have to costume your CloneBot so that it fits in the intended setting. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative! We have fabric, just ask!
-   
-
+5. **Found objects and materials** -- You will have to costume your CloneBot so that it fits in the intended setting. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative! We have fabric, just ask! regarding the view captured by the camera, it's important to ensure that the camera's field of view captures the necessary information for the intended purpose of the prototyped interaction. Depending on the specific project's requirements, the camera may need to be positioned in a particular way or have specific settings adjusted to capture the desired view accurately.
 
 
 
