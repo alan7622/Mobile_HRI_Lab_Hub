@@ -5,6 +5,7 @@ Alan Hsieh - amh425@cornell.edu
 Cealia Pai - yp332@cornell.edu
 
 Project Proposal: https://drive.google.com/file/d/1Mqk6pet-Dvx2AZaXz14gP8ciWCngIk9R/view?usp=share_link
+
 Welcome back! Hope you had a relaxing Feburary break. We missed you. 
 
 It's never too early to think about your final projects. You will work in teams of 3 to 5 people to automate an object of your choice. You can choose either platform for your final project: clonebot or hoverboard. 
