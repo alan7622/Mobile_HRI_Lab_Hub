@@ -111,4 +111,6 @@ https://youtube.com/shorts/QltZuzNwSOU?feature=share
 
 https://youtube.com/shorts/dqFYAUGhx38?feature=share
 
+https://github.com/alan7622/Mobile_HRI_Lab_Hub/blob/1d8abbca797b15140913b8907782ff41b678da06/Lab6/my_pic.jpg
+
 I will consider more about the battery life, the Raspberry Pi and ODrive may consume a lot of power, so it's important to ensure that the battery can last long enough to support the luggage's autonomous movement. Further, I think the hoverboard wheels may not be the most efficient wheels for carrying heavy luggage. I will consider to use larger wheels or different types of wheels that can handle more weight.
