@@ -3,6 +3,9 @@
 
 **List the names and NetID for your partners here.**
 
+Alan Hsieh - amh425@cornell.edu
+
+Cealia Pai - yp332@cornell.edu
 
 In this lab, let's try out some moves with our robots and make them talk!
 
