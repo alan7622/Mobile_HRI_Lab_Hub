@@ -9,6 +9,7 @@ Cealia Pai - yp332@cornell.edu
 
 In this lab, let's try out some moves with our robots and make them talk!
 
+https://docs.google.com/document/d/1Mx5lJR6I29O3lGmagnf6DXlOSRrqGtwAp4WN7-e29gM/edit#
 
 ## Prep
 If you haven't finished your robot chassis, try to wrap it up in this lab.
