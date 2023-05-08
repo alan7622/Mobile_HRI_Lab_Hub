@@ -113,6 +113,25 @@ if wiggle_button_pressed:
 
 Based on your final project proposal, sketch out a simple interaction scenario where your robot is interacting (verbally and/or physically) with at least one person. The robot must interact with at least one person. 
 1. Scout out the location for the interaction. What are the features and existing activities in the space?
+
+Location: The luggage can be at any place there are restrictions
+Stage the interaction you expect with your robot to go. (Remember to take a video.)
+
+Voice
+
+1. Detect The luggage is heavy 
+2. Detect there are contrabands in the luggage
+
+Move the Robot with the wizard
+
+3. Follow me - I will follow you
+4. The luggage will detect if there is an obstacle
+
+Extra Feature
+
+5. The luggage can dance 
+
+
 2. Stage the interaction you expect with your robot to go. (Remember to take a video.)
 3. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.
 4. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion
